@@ -1,0 +1,7 @@
+{
+  "name": "newwws",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
